@@ -37,7 +37,7 @@ lol get it "Logan da data alchemist"...like i turn messy data into valuable insi
 - **Email:** loganbhinder@gmail.com  
 
 ## ⚡ Fun fact:  
-- I love **blending analytics with creativity**—whether it's **data, music videos, or fashion**.  
+- I love **blending analytics with creativity**—whether it's **data, media marketing, or brand development**.  
 - My goal is to **turn raw data into valuable insights**, like an **alchemist turning lead into gold**.
 - I help **direct Music Videos/Short films in my freetime**.
  
