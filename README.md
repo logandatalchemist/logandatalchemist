@@ -12,7 +12,7 @@ logandatalchemist/logandatalchemist is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @logandatalchemist
-pronounced (*loh-guhn duh dey-tuh al-kuh-mist*)
+lol get it "Logan da data alchemist"...like i turn messy data into valuable insights...lol
 
 🔹 Data Enthusiast | Aspiring Data Analyst/Scientist/Engineer | Creative Thinker  
 
