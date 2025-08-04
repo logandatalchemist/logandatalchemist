@@ -19,7 +19,7 @@ lol get it "Logan da data alchemist"...like i turn messy data into valuable insi
 ## 👀 I’m interested in learning ...  
 - SQL, Python, and Data Visualization (Tableau, Power BI)  
 - Data Science, Machine Learning, and Big Data Analytics  
-- How to bridge **data and creativity** in real-world projects  
+- How to bridge **data and creativity** and leverage it to bring value to businesses
 
 ## 🌱 I’m currently learning ...  
 - **Building my data portfolio** with SQL and Tableau  
