@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I’m @logandatalchemist
 lol get it "Logan da data alchemist"...like i turn messy data into valuable insights...lol
 
-🔹 Data Enthusiast | Aspiring Data Analyst/Scientist/Engineer | Creative Thinker  
+🔹 I think being able to make informed decisions is very cool, so Data is my thing!
 
 ## 👀 I’m interested in learning ...  
 - SQL, Python, and Data Visualization (Tableau, Power BI)  
